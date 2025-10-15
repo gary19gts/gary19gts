@@ -1,4 +1,4 @@
-# Welcome to my little corner of the internet! 👋
+# Hi! This is where I build and break things! 👋
 
 My name is Gary, and I've just started learning how to code 🌱. To be honest, most of this is new to me, but I've always dreamed of building my own software ✨.
 
@@ -21,4 +21,6 @@ If one of my projects has saved you some time or you just want to cheer me on, a
 
 You're not just donating; you're investing in a developer's dream 🚀. Thank you for your support 🙏.
 
-**➡️ [Link to your donation page (e.g., Ko-fi, Buy Me a Coffee)]**
+**➡️ [(https://ko-fi.com/gary19gts)]**
+
+<a href="https://ko-fi.com/gary19gts"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" height="50" alt="Support me on Ko-fi"></a>
